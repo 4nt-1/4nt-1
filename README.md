@@ -1,4 +1,5 @@
 ## Hello ! I'm Antoine Modoux
+Currently a dev student
 
 
 
